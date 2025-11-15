@@ -21,7 +21,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.telusko.ecom_proj.model.Product;
 import com.telusko.ecom_proj.service.ProductService;
-//what
+
 @RestController
 @CrossOrigin
 @RequestMapping("/api")
